@@ -12,12 +12,12 @@ cd Java-Program-Build-System
 
 ## Build the Project (First Time Only)
 ```bash
-./build
+./build main # ./build <package-name>
 ```
 
 ## For Just Running the Project
-```bash
-./run
+```bash 
+./run main # ./run <package-name>
 ```
 
 ## Configure Class Path in VS Code (Ignore if Already Done) 
