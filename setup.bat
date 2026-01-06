@@ -8,7 +8,7 @@ del README.md
 del .gitignore
 
 echo.
-call build
+call build main
 
 echo.
 echo Setup completed successfully.
