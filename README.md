@@ -2,15 +2,15 @@
 
 ## Clone the Repository
 ```bash
-git clone https://github.com/X-RugvedCodes-X/Java-Program-Build-System.git 
+git clone https://github.com/X-RugvedCodes-X/Java-Program-Build-System.git .
 ```
 
-## Navigate to the Project Root Directory
+## Run the Setup Script
 ```bash
-cd Java-Program-Build-System
+./setup
 ```
 
-## Build the Project (First Time Only)
+## Build the Project (After Changes)
 ```bash
 ./build main # ./build <package-name>
 ```
